@@ -1,8 +1,8 @@
 package com.example.androiduitesting;
 
 public class City {
-    private String city;
-    private String province;
+    private final String city;
+    private final String province;
 
     City(String city, String province){
         this.city = city;

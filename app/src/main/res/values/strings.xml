@@ -1,3 +1,10 @@
+
 <resources>
-    <string name="app_name">Android UI Testing</string>
+    <string name="app_name">Your App Name</string>
+    <string name="add_city">ADD CITY</string>
+    <string name="clear_all">CLEAR ALL</string>
+    <string name="city_name">City Name</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="city_name_placeholder">City Name</string>
+    <string name="back">BACK</string>
 </resources>
